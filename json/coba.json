@@ -1,0 +1,31 @@
+[
+	{
+		"nama" : "Evi Silvia",
+		"umur" : 20,
+		"nrp" : "173040050",
+		"lulus" : true,
+		"hobby" :[
+		"coding",
+		"gaming"
+		],
+		"pembimbing":{
+			"pembimbing1":"Sandhika",
+			"pembimbing2":"indriyani"
+		}
+	},
+	{
+		"nama" : "Amanda shakila",
+		"umur" : 19,
+		"nrp" : "173040063",
+		"lulus" : true,
+		"hobby" :[
+		"coding",
+		"gaming"
+		],
+
+		"pembimbing":{
+			"pembimbing1":"Ade sukendar",
+			"pembimbing2":"siroj"
+		}
+	}
+]
